@@ -23,6 +23,25 @@
 
 ###
 
+<h2 align="center">Estadísticas generales</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gr4ykt&radius=16&theme=vue&area=true&order=5&hide_title=false&hide_border=true&custom_title=Gr%C3%A1fico%20de%20contribuciones%20de%20Gr4ykt" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gr4ykt&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gr4ykt&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h2 align="center">Habilidades</h2>
@@ -93,25 +112,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
-
-###
-
-<h2 align="center">Estadísticas generales</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gr4ykt&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gr4ykt&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gr4ykt&radius=16&theme=vue&area=true&order=5&hide_title=false&hide_border=true&custom_title=Gr%C3%A1fico%20de%20contribuciones%20de%20Gr4ykt" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
