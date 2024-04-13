@@ -13,15 +13,11 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/78503985?v=4"  />
-</div>
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/78503985?v=4"  />
 
 ###
 
-<br clear="both">
-
-<h3 align="center">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</h3>
+<h3 align="left">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</h3>
 
 ###
 
@@ -33,7 +29,15 @@
 
 <br clear="both">
 
-<h4 align="center">Lenguajes</h4>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+</div>
 
 ###
 
@@ -55,23 +59,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Framework's</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
+<h2 align="center">Estadísticas generales</h2>
 
 ###
 
