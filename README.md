@@ -13,11 +13,13 @@
 
 ###
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/78503985?v=4"  />
+<div align="center">
+  <img height="450" src="https://avatars.githubusercontent.com/u/78503985?v=4"  />
+</div>
 
 ###
 
-<h3 align="left">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</h3>
+<h3 align="center">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</h3>
 
 ###
 
