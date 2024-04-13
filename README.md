@@ -83,3 +83,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gr4ykt&radius=16&theme=vue&area=true&order=5&hide_title=false&hide_border=true&custom_title=Gr%C3%A1fico%20de%20contribuciones%20de%20Gr4ykt" height="300" alt="activity-graph graph"  />
+</div>
+
+###
