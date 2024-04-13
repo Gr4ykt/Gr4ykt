@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<p align="center">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</p>
+<h3 align="center">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</h3>
 
 ###
 
