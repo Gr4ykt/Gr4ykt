@@ -13,17 +13,21 @@
 
 ###
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/78503985?v=4"  />
-
-###
-
-<p align="left">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</p>
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/78503985?v=4"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Habilidades</h2>
+<p align="center">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</p>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Habilidades</h2>
 
 ###
 
@@ -77,11 +81,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gr4ykt&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gr4ykt&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gr4ykt/Gr4ykt/output/snake.svg" alt="Snake animation" />
 
 ###
