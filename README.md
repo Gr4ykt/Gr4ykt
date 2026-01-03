@@ -22,7 +22,7 @@ Visita mi blog para leer análisis técnicos, writeups y contenido de seguridad:
 
 ---
 
-## 🚀 Estadísticas (Opcional — personaliza con tu usuario)
+## 🚀 Estadísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr4ykt&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr4ykt&layout=compact&theme=radical)
