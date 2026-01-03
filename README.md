@@ -1,23 +1,47 @@
-<h1 align="center">👋Hola, soy 💻Gr4ykt🐈‍⬛</h1>
+# 👋 Hola, soy **Gr4ykt** (Matías Rivera González)
 
-###
+> Apasionado por la **informática, programación y ciberseguridad** con enfoque en aprendizaje continuo, CTFs y writeups.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mriveragt4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+🧠 Actualmente estudiante de Ingeniería en Computación y desarrollador con experiencia en:
+- 🛡️ **Ciberseguridad**: CTF player, Hack The Box, TryHackMe, writeups técnicos. :contentReference[oaicite:4]{index=4}
+- 🧪 **Programación y scripting**: Python, JavaScript, y herramientas prácticas para automatización y aprendizaje.
+- 💻 **Desarrollo web** y proyectos personales aplicados.
 
-###
+---
 
-<div align="center">
-  <img height="450" src="https://avatars.githubusercontent.com/u/78503985?v=4"  />
-</div>
+## 🔭 Mis actividades destacadas
 
-###
+🌐 **Portfolio & Blog**  
+Visita mi blog para leer análisis técnicos, writeups y contenido de seguridad:  
+👉 https://gr4ykt.github.io/ :contentReference[oaicite:5]{index=5}
 
-<h3 align="center">Apasionado por la informática y la ciberseguridad, Programación web y scripts, también hacer writeups, Ctf player, Hack The Box y Tryhackme.</h3>
+📌 Algunos de mis repositorios más relevantes:
+- 📘 **Introducción-a-Python** – Material para practicar Python desde cero. :contentReference[oaicite:6]{index=6}
+- 🧠 **Writeups CTF** – Soluciones detalladas de juegos de seguridad y máquinas de HTB.
+- 💡 **Proyectos web y scripts** – Varias herramientas pequeñas para automatizar tareas o apoyar mi aprendizaje.
 
-###
+---
 
-###
+## 🚀 Estadísticas (Opcional — personaliza con tu usuario)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr4ykt&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr4ykt&layout=compact&theme=radical)
+
+---
+
+## 💬 Conectemos
+
+🔗 Encuéntrame en:
+
+| Plataforma | Enlace |
+|------------|--------|
+| 🌍 Web personal | https://gr4ykt.github.io/ :contentReference[oaicite:7]{index=7} |
+| 🐙 GitHub | https://github.com/Gr4ykt :contentReference[oaicite:8]{index=8} |
+| 💼 LinkedIn | https://www.linkedin.com/in/mriveragt4 :contentReference[oaicite:9]{index=9} |
+| 🧠 Hack The Box | perfil HTB |
+
+---
+
+## 📫 ¿Quieres colaborar?
+
+Estoy abierto a colaborar en proyectos de **ciberseguridad, programación y educación técnica**. ¡Házmelo saber! 👨‍💻
